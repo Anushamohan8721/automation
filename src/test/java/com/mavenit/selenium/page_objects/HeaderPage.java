@@ -18,7 +18,7 @@ public class HeaderPage extends DriverManager {
     private WebElement searchBtn;
 
     public void search(String product) {
-        driver.findElement(By.id("searchTerm")).sendKeys(product);
+        driver.findElement(By.id("searchTerm  lkdsfnjlksdjflkdsjflsdj")).sendKeys(product);
         driver.findElement(By.cssSelector("._1gqeQ")).click();
     }
 
