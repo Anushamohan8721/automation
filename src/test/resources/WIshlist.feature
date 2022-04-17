@@ -1,3 +1,4 @@
+@wishlist
 Feature: Wishlist
   As a custoemr
   I want to add a product into basket

@@ -1,6 +1,5 @@
+@filters
 Feature: Filters
-
-
   Scenario Outline: Filter by review
     Given Iam on homepage
     When I search for product "<searchTerm>"
