@@ -16,7 +16,7 @@ import java.io.File;
 public class DriverManager {
 
     public static WebDriver driver;
-    String URL = System.getenv("url");
+    String URL = "https://www.argos.co.uk";
 
     public DriverManager(){
       //  PageFactory.initElements(driver,this);
