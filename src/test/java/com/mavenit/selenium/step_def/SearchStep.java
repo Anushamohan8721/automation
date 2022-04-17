@@ -2,7 +2,6 @@ package com.mavenit.selenium.step_def;
 
 import com.mavenit.selenium.page_objects.HeaderPage;
 import com.mavenit.selenium.page_objects.SearchResultPage;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
