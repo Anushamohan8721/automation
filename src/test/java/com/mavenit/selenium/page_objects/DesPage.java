@@ -14,7 +14,4 @@ public class DesPage extends DriverManager {
         driver.findElement(By.cssSelector("a[data-test='component-att-button-basket']")).click();
         sleep(3000);
     }
-    public void selectQuantity(){
-
-    }
 }
