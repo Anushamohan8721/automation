@@ -11,6 +11,7 @@ import org.junit.runner.RunWith;
         dryRun = false,
         strict = true,
         plugin = {"json:target/cucumber.json"}
+        //Helloooo
 )
 public class RunCukesTest {
 }
